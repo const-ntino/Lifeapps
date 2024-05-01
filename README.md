@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O projeto E-commerce Lifeapps é uma aplicação web para uma loja online que oferece uma variedade de produtos aos clientes. Esta aplicação foi desenvolvida com base nas tecnologias Next.js v14, React, e Styled Components.
+O projeto E-commerce Lifeapps é uma aplicação web para uma loja online que oferece uma variedade de produtos aos clientes. Esta aplicação foi desenvolvida com base nas tecnologias Next.js v14, React, e Styled Components. Foi utilizado Javascript ao invés de Typescript porque me informaram que era a preferência do time de desenvolvimento.
 
 ## Instalação
 
@@ -50,7 +50,7 @@ O projeto utiliza as seguintes dependências principais:
 
 Este projeto foi desenvolvido por [João Constantino] e faz parte da prova proposta pela MaximaTech para a vaga de Front-end. Devido ao tempo muito limitado, a aplicação precisa de melhorias, como responsividade, testes e implementação de outras funcionalidades. Peço, porém, que seja considerado o esforço de produzir este MVP em pouco mais de duas horas. Obrigado pela atenção.
 
-## Autor
+## Projeto
 
 Projeto rodando live:
 https://lifeapps.vercel.app/
