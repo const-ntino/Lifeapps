@@ -129,8 +129,8 @@ export default function ProductList({ products }) {
 
 const Container = styled.div`
   margin: 4rem auto;
-  max-width: 1300px;
-  padding: 0 1rem;
+  max-width: 1280px;
+  padding: 0 1.5rem;
 `;
 
 const ButtonGroup = styled.div`
@@ -165,12 +165,9 @@ const Dropdown = styled.div`
 `;
 
 const DropdownContent = styled.select`
-  top: 100%;
-  left: 0;
   width: 100%;
   padding: 0.5rem;
   border: 1px solid #ccc;
-  border-top: none;
   border-radius: 0 0 4px 4px;
   background-color: #fff;
   color: #333;

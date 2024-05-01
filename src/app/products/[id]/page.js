@@ -43,10 +43,7 @@ const ProductDetail = ({ params }) => {
 
       console.log("Product ID:", product.id);
       console.log("Product ID (typeof):", typeof product.id);
-      router.push({
-        pathname: "/cart",
-        query: { productId: product.id.toString() },
-      });
+      router.push("/cart");
     } else {
       console.error("ID do produto não está definido.");
     }

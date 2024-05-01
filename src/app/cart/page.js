@@ -174,6 +174,8 @@ const Container = styled.div`
 `;
 
 const Content = styled.div`
+  height: 100vh;
+  margin: 0 auto;
   max-width: 1200px;
   padding: 1rem 3%;
   display: flex;
